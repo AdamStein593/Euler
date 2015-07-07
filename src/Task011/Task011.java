@@ -1,3 +1,5 @@
+package Task011;
+
 class Task011{
     public static void main(String[]args){
         int[][] grid = new int[][]{

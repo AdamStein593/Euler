@@ -1,3 +1,5 @@
+package Task007;
+
 class Task007{
     public static void main(String[]args){
         int primes=0;

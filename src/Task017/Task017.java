@@ -1,3 +1,5 @@
+package Task017;
+
 class Task017{
     public static int position=0;
     public static String [] numbers = new String [1001];

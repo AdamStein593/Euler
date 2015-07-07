@@ -1,3 +1,5 @@
+package Task002;
+
 class Task002{
     public static void main(String[]args){
         int a=0;

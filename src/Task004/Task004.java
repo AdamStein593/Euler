@@ -1,3 +1,5 @@
+package Task004;
+
 class Task004{
     public static void main(String[]args){
         int x=999;

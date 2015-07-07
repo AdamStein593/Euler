@@ -1,3 +1,5 @@
+package Task015;
+
 class Task015{
     public static void main (String[]args){
         long [][] grid = new long[21][21];
