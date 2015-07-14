@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package Task024;
+package Task022;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -11,7 +11,7 @@ import java.util.List;
  *
  * @author Adam
  */
-public class Task024 {
+public class Task022 {
 
     /**
      * @param args the command line arguments
