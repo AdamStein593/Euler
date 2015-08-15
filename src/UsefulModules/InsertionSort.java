@@ -22,9 +22,7 @@ public class InsertionSort {
             random.add((int)Math.ceil(Math.random()*1000));
         }
         List<Integer>sorted=sortNumberList(random);
-        for (int i=0;i<sorted.size();i++){
-            System.out.println(sorted.get(i));
-        }
+        
     }
     
     public static List <Integer> sortNumberList(List <Integer> unsortedList){
